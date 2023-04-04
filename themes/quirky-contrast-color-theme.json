@@ -792,7 +792,7 @@
       "name": "Attribute IDs",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "",
         "foreground": "#7d7d7d"
       }
     },
@@ -800,7 +800,7 @@
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "",
         "foreground": "#fdfdfd"
       }
     },
@@ -1793,7 +1793,7 @@
     "statusBarItem.remoteBackground": "#7d7d7d",
     "statusBarItem.remoteForeground": "#fdfdfd",
     "titleBar.activeBackground": "#222222",
-    "titleBar.activeForeground": "#ffc300",
+    "titleBar.activeForeground": "#fdfdfd",
     "titleBar.inactiveBackground": "#3c3c3c99",
     "titleBar.inactiveForeground": "#cccccc99",
     "titleBar.border": "#ffffff00",
