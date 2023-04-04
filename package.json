@@ -1,0 +1,48 @@
+{
+  "name": "quirky-contrast-theme",
+  "displayName": "Quirky Contrast Theme",
+  "description": "Theme made with colors that are quirky and fun but also provide good contrast",
+  "version": "0.0.0",
+  "publisher": "DarkMannn",
+  "author": "DarkMannn <darko.milosevic@darkmannn.dev>",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "contrast",
+    "coral",
+    "cyan",
+    "gold",
+    "brown",
+    "accessible",
+    "clean",
+    "minimal",
+    "quirky",
+    "playful",
+    "fun",
+    "vivid",
+    "dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Quirky Contract Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/quirky-contrast-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon.png",
+  "repository": {
+    "url": "https://github.com/DarkMannn/quirky-contrast-vscode-theme",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/DarkMannn/quirky-contrast-vscode-theme/issues"
+  },
+  "license": "MIT"
+}
