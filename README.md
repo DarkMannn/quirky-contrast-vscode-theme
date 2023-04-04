@@ -4,9 +4,9 @@
 
 Theme made with colors that are quirky and fun but also provide good contrast.
 
-![quirky-contrast-theme](https://drive.google.com/uc?export=view&id=1YR_hzXCReuwoBeVt-i-Wa3qq9QlipTPD)
+![quirky-contrast-theme](https://drive.google.com/uc?export=view&id=1Tb_VitXC57f6Ne15BQfh7sj5a7OmmIec)
 
-![theme preview](https://drive.google.com/uc?export=view&id=1UxzLbATMqSrBuWQ_iNbZuNCvqlMhIRbf)
+![theme preview](https://drive.google.com/uc?export=view&id=1cNCvCZmHk6B44ZVlMulaj9wgQoCM_jtH)
 
 </div>
 
