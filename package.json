@@ -1,8 +1,8 @@
 {
   "name": "quirky-contrast-theme",
   "displayName": "Quirky Contrast Theme",
-  "description": "Theme made with colors that are quirky and fun but also provide good contrast",
-  "version": "0.0.6",
+  "description": "Theme made with colors that are quirky and minimal but also provide good contrast",
+  "version": "0.0.7",
   "publisher": "DarkMannn",
   "author": "DarkMannn <darko.milosevic@darkmannn.dev>",
   "engines": {
@@ -14,11 +14,9 @@
   "keywords": [
     "theme",
     "contrast",
-    "coral",
+    "yellow",
     "red",
-    "cyan",
-    "gold",
-    "brown",
+    "blue",
     "accessible",
     "clean",
     "minimal",
