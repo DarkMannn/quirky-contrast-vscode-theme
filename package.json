@@ -2,7 +2,7 @@
   "name": "quirky-contrast-theme",
   "displayName": "Quirky Contrast Theme",
   "description": "Theme made with colors that are quirky and minimal but also provide good contrast",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "publisher": "DarkMannn",
   "author": "DarkMannn <darko.milosevic@darkmannn.dev>",
   "engines": {
@@ -35,7 +35,7 @@
       }
     ]
   },
-  "icon": "icon.png",
+  "icon": "assets/icon.png",
   "repository": {
     "url": "https://github.com/DarkMannn/quirky-contrast-vscode-theme",
     "type": "git"
